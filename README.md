@@ -1,7 +1,7 @@
 ## Hey there, I'm Akshaya!
 Just a beginner who googles a lot but learns a little more each day!🙃
 
-I am a **CSE student** passionate about **DSA** ansd **Web Development**.<br/>
+I am a **CSE student** passionate about **DSA** and **Web Development**.<br/>
 
 I love blending my artistic side with tech, and I’m always excited to learn something new!<br/>
 Building cool stuff makes learning fun and inspires me to create even more!
