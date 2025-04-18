@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey there, I'm Akshaya!
+Just a beginner who googles a lot but learns a little more each day!🙃
 
-<!--
-**akshaya1255/akshaya1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **CSE student** passionate about **DSA** ansd **Web Development**.<br/>
 
-Here are some ideas to get you started:
+I love blending my artistic side with tech, and I’m always excited to learn something new!<br/>
+Building cool stuff makes learning fun and inspires me to create even more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Tech Stack**
+- 💻 Languages: `C++` | `JavaScript` | `Python`
+- 🌐 Web Dev: `HTML` | `CSS` | `React.js`
+- 🧠 AI/ML: `Scikit-learn` | `TensorFlow` (currently learning)
+
+---
+
+### 🧩 **Problem Solving Profiles**
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshaya_1255/)
+- [![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshaya_gfg/)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akshaya_siri)
+
+---
+### 🤝 **Let’s connect!**
+- 📧 [Mail](akshayasirimudragada@gmail.com) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-siri-mudragada-a187a7261/)
